@@ -1,8 +1,10 @@
 # Minishell (101% PASSED)
 
-![image](https://github.com/abaiao-r/minishell/assets/118570346/43f7b006-2c03-40f4-8b7c-83756b38c6aa)
+<p align="center">
+  <img src="https://github.com/abaiao-r/minishell/assets/118570346/43f7b006-2c03-40f4-8b7c-83756b38c6aa" width="300" height="300">
+</p>
 
-A Custom Shell Implementation
+### A Custom Shell Implementation
 
 Minishell is a custom shell implementation project written in C. It aims to provide a simple yet powerful shell interface for executing commands and managing processes. By working on Minishell, you will gain a deep understanding of process management, file descriptors, and command execution.
 
